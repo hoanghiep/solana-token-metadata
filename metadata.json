@@ -2,5 +2,5 @@
   "name": "Fake USD Token X",
   "symbol": "FUDX",
   "description": "Just a test for how to name your token ;)X",
-  "image": "https://github.com/hoanghiep/solana-token-metadata/blob/main/23.png?raw=true"
+  "image": "https://raw.githubusercontent.com/hoanghiep/solana-token-metadata/main/image.png"
 }
